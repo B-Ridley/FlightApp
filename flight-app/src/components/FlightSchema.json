@@ -1,0 +1,245 @@
+[
+    {
+        "flightID": 1,
+        "planeModel": "Boeing 737",
+        "Pilot": "Dona Aers",
+        "departureDate": "07/03/2022",
+        "departureTime": "12:40 AM",
+        "departureAirport": "Mopti",
+        "arrivalDate": "7/03/2022",
+        "arrivalTime": "2:42 AM",
+        "arrivalAirport": "Tarica",
+        "capacity": 120
+    },
+    {
+        "flightID": 2,
+        "planeModel": "Boeing 737 MAX",
+        "Pilot": "Dave Ausello",
+        "flight": {
+            "departureDate": "07/14/2022",
+            "departureTime": "5:02 AM",
+            "departureAirport": "Laohekou",
+            "arrivalDate": "7/15/2022",
+            "arrivalTime": "4:12 AM",
+            "arrivalAirport": "Heshi"
+        },
+        "capacity": 15
+    },
+    {
+        "flightID": 3,
+        "planeModel": "Airbus A320",
+        "Pilot": "Raymund Twyford",
+        "flight": {
+            "departureDate": "08/08/2022",
+            "departureTime": "12:39 AM",
+            "departureAirport": "Karlobag",
+            "arrivalDate": "08/09/2022",
+            "arrivalTime": "5:22 AM",
+            "arrivalAirport": "Manis Mekarwangi"
+        },
+        "capacity": 20
+    },
+    {
+        "flightID": 4,
+        "planeModel": "Boeing 737",
+        "Pilot": "Lucais Rorke",
+        "flight": {
+            "departureDate": "08/08/2022",
+            "departureTime": "11:54 AM",
+            "departureAirport": "Candating",
+            "arrivalDate": "08/08/2022",
+            "arrivalTime": "4:54 PM",
+            "arrivalAirport": "Damaying"
+        },
+        "capacity": 20
+    },
+    {
+        "flightID": 5,
+        "planeModel": "Airbus A320",
+        "Pilot": "Morris Arch",
+        "flight": {
+            "departureDate": "08/15/2022",
+            "departureTime": "10:52 PM",
+            "departureAirport": "Azor",
+            "arrivalDate": "08/16/2021",
+            "arrivalTime": "1:18 AM",
+            "arrivalAirport": "Malawa"
+        },
+        "capacity": 16
+        },
+    {
+        "flightID": 6,
+        "planeModel": "Boeing 737 MAX",
+        "Pilot": "Giacinta Joney",
+        "flight": {
+            "departureDate": "08/20/2022",
+            "departureTime": "4:27 PM",
+            "departureAirport": "Nantuo",
+            "arrivalDate": "08/20/2022",
+            "arrivalTime": "8:15 PM",
+            "arrivalAirport": "Zhoukoudian"
+        },
+        "capacity": 88
+    },
+    {
+        "flightID": 7,
+        "planeModel": "Boeing 737",
+        "Pilot": "Gearalt Rigby",
+        "flight": {
+            "departureDate": "09/02/2022",
+            "departureTime": "4:31 PM",
+            "departureAirport": "Jarada",
+            "arrivalDate": "09/03/2022",
+            "arrivalTime": "4:36 PM",
+            "arrivalAirport": "Dangshun"
+        },
+        "capacity": 101
+    },
+    {
+        "flightID": 8,
+        "planeModel": "Airbus A320",
+        "Pilot": "Kin Poleye",
+        "flight": {
+            "departureDate": "09/12/2022",
+            "departureTime": "4:57 AM",
+            "departureAirport": "Karawatung",
+            "arrivalDate": "09/13/2022",
+            "arrivalTime": "4:02 AM",
+            "arrivalAirport": "Kadugede"
+        },
+        "capacity": 18
+    },
+    {
+        "flightID": 9,
+        "planeModel": "Boeing 737",
+        "Pilot": "Rafferty Noell",
+        "flight": {
+            "departureDate": "09/25/2022",
+            "departureTime": "11:43 AM",
+            "departureAirport": "Pukë",
+            "arrivalDate": "09/25/2022",
+            "arrivalTime": "8:25 PM",
+            "arrivalAirport": "Kavadarci"
+        },
+        "capacity": 9
+    },
+    {
+        "flightID": 10,
+        "planeModel": "Boeing 737",
+        "Pilot": "Esmeralda Roseblade",
+        "flight": {
+            "departureDate": "10/02/2022",
+            "departureTime": "10:44 PM",
+            "departureAirport": "Hongxi",
+            "arrivalDate": "10/02/2022",
+            "arrivalTime": "11:02 PM",
+            "arrivalAirport": "Sidi Bousber"
+        },
+        "capacity": 80
+    }
+]
+
+
+[
+{
+    "flightID": 5,
+    "planeModel": "Airbus A320",
+    "Pilot": "Sophie Hatter",
+    "departureDate": "08/15/2022",
+    "departureTime": "10:52 PM",
+    "departureAirport": "Azor",
+    "arrivalDate": "08/16/2021",
+    "arrivalTime": "1:18 AM",
+    "arrivalAirport": "Malawa",
+    "capacity": 16
+},
+{
+    "flightID": 6,
+    "planeModel": "Boeing 737 MAX",
+    "Pilot": "Giacinta Joney",
+    "departureDate": "08/20/2022",
+    "departureTime": "4:27 PM",
+    "departureAirport": "Nantuo",
+    "arrivalDate": "08/20/2022",
+    "arrivalTime": "8:15 PM",
+    "arrivalAirport": "Zhoukoudian",
+    "capacity": 88
+},
+{
+    "flightID": 7,
+    "planeModel": "Boeing 737",
+    "Pilot": "Gearalt Rigby",
+    "departureDate": "09/02/2022",
+    "departureTime": "4:31 PM",
+    "departureAirport": "Jarada",
+    "arrivalDate": "09/03/2022",
+    "arrivalTime": "4:36 PM",
+    "arrivalAirport": "Dangshun",
+    "capacity": 101
+},
+{
+    "flightID": 8,
+    "planeModel": "Airbus A320",
+    "Pilot": "Kin Poleye",
+        "departureDate": "09/12/2022",
+        "departureTime": "4:57 AM",
+        "departureAirport": "Karawatung",
+        "arrivalDate": "09/13/2022",
+        "arrivalTime": "4:02 AM",
+        "arrivalAirport": "Kadugede",
+    "capacity": 18
+},
+{
+    "flightID": 9,
+    "planeModel": "Boeing 737",
+    "Pilot": "Rafferty Noell",
+        "departureDate": "09/25/2022",
+        "departureTime": "11:43 AM",
+        "departureAirport": "Pukë",
+        "arrivalDate": "09/25/2022",
+        "arrivalTime": "8:25 PM",
+        "arrivalAirport": "Kavadarci",
+    "capacity": 9
+},
+{
+    "flightID": 10,
+    "planeModel": "Boeing 737",
+    "Pilot": "Esmeralda Roseblade",
+    "flight": {
+        "departureDate": "10/02/2022",
+        "departureTime": "10:44 PM",
+        "departureAirport": "Hongxi",
+        "arrivalDate": "10/02/2022",
+        "arrivalTime": "11:02 PM",
+        "arrivalAirport": "Sidi Bousber"
+    },
+    "capacity": 80
+}
+{
+    "flightID": 3,
+    "planeModel": "Airbus A320",
+    "Pilot": "Jan Brady",
+    "departureDate": "08/08/2022",
+    "departureTime": "12:39 AM",
+    "departureAirport": "Karlobag",
+    "arrivalDate": "08/09/2022",
+    "arrivalTime": "5:22 AM",
+    "arrivalAirport": "Manis Mekarwangi",
+    "capacity": 20
+}
+
+
+{
+    "flightID":10,
+    "planeModel":"Bombardier CRJ200",
+    "Pilot":"Sarena Banting",
+    "departureDate":"07/02/2022",
+    "departureTime":"10:50 PM",
+    "departureAirport":"Liuduzhai",
+    "arrivalDate":"07/03/2022",
+    "arrivalTime":"2:20 AM",
+    "arrivalAirport":"DFW",
+    "capacity":4
+}
+
+]

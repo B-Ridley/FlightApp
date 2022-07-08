@@ -1,0 +1,85 @@
+/* Style Elements for the Flight Forms */
+
+body {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    align-content: center;
+    
+}
+
+
+h1 {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 15px;
+    background-color:rgb(255, 255, 255);
+    background-size:auto; 
+    
+}
+
+h3 {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    width: auto;
+}
+
+  form {
+    border: 5px solid rgb(0, 0, 0);
+    background-color:rgb(212, 209, 209);
+    margin-top: 50px;
+    padding: 10px;
+    flex-direction: column;
+    align-items: center;
+    display:inline-block;
+    justify-content: center;
+    width: 35%;
+    height: 15%;
+    
+    
+  }
+
+  .form-group.c1,
+  .form-group.c2{
+    display: inline-block;
+    width: 48%;
+    horizontal-align: top; 
+
+  }
+  
+.form >input {
+  float: right; 
+}
+
+.form >label {
+  float: left;
+  clear: right; 
+ 
+}
+
+  label {
+    width: 50%;
+    text-transform: uppercase;
+    font-size: 16px;
+    font-weight: bold;
+    align-content: center;
+    height: 20%; 
+    
+  }
+  input {
+    display: block;
+    margin-bottom: 15px;
+    height:initial;
+    width: 100%;
+    
+    
+    
+  }
+  button {
+    padding: 10px 10px;
+    text-transform: uppercase;
+    cursor: pointer;
+    justify-items: left;
+    margin: auto;
+  }
